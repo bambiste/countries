@@ -1,0 +1,49 @@
+{
+  "name": "@bambiste/countries",
+  "version": "0.1.0",
+  "description": "ISO 3166 country list (codes, names, region, flag emoji) as static data — no API, no key.",
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    "./package.json": "./package.json",
+    ".": {
+      "development": "./src/index.ts",
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "default": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "src/countries.json",
+    "README.md"
+  ],
+  "scripts": {
+    "generate": "node scripts/generate.mjs",
+    "build": "tsc -p tsconfig.lib.json",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "countries",
+    "iso-3166",
+    "country-list",
+    "flags",
+    "cca2",
+    "cca3"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/",
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bambiste/countries.git"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "world-countries": "^5.1.0"
+  }
+}
