@@ -1,6 +1,6 @@
 {
   "name": "@bambiste/countries",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ISO 3166 country list (codes, names, region, flag emoji) as static data — no API, no key.",
   "license": "MIT",
   "type": "module",
@@ -10,7 +10,6 @@
   "exports": {
     "./package.json": "./package.json",
     ".": {
-      "development": "./src/index.ts",
       "types": "./dist/index.d.ts",
       "import": "./dist/index.js",
       "default": "./dist/index.js"
