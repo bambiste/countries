@@ -1,0 +1,64 @@
+name: Release
+
+# Runs on every push to master.
+# - Pending changesets present  → opens/updates a "Version Packages" PR
+# - "Version Packages" PR merged → builds & publishes to public npm
+on:
+  push:
+    branches: [master]
+
+concurrency: ${{ github.workflow }}-${{ github.ref }}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  release:
+    name: Version or publish
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          registry-url: https://registry.npmjs.org/
+          scope: '@bambiste'
+
+      - name: Install
+        run: npm ci
+
+      # changesets/action: pending changesets → version PR; none left → `npm run
+      # release` (changeset publish); prepublishOnly runs the tsc build.
+      - name: Create version PR or publish
+        uses: changesets/action@v1
+        with:
+          version: npm run version
+          publish: npm run release
+          title: 'chore: version packages'
+          commit: 'chore: version packages'
+        env:
+          # Built-in token pushes tags / opens the version PR on this repo.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # npm publish auth — NPM_TOKEN needs publish rights to the @bambiste org.
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      # Self-healing dist-tag guard: keep the intended tag on the version currently
+      # in the workspace — `latest` on master, or the pre tag (next/alpha) in
+      # changesets prerelease mode — so `@<tag>` always resolves the newest build.
+      - name: Reconcile dist-tag
+        if: ${{ !cancelled() }}
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          set -e
+          name=$(node -p "require('./package.json').name")
+          ver=$(node -p "require('./package.json').version")
+          TAG=latest
+          [ -f .changeset/pre.json ] && TAG=$(node -p "require('./.changeset/pre.json').tag")
+          npm view "$name@$ver" version >/dev/null 2>&1 || { echo "skip $name@$ver (not on npm)"; exit 0; }
+          cur=$(npm dist-tag ls "$name" 2>/dev/null | awk -v t="$TAG:" '$1==t{print $2}')
+          [ "$cur" = "$ver" ] && echo "  $TAG already $ver" || npm dist-tag add "$name@$ver" "$TAG"
