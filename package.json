@@ -23,7 +23,9 @@
   "scripts": {
     "generate": "node scripts/generate.mjs",
     "build": "tsc -p tsconfig.lib.json",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run build",
+    "version": "npx -y @changesets/cli version",
+    "release": "npx -y @changesets/cli publish"
   },
   "keywords": [
     "countries",

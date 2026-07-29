@@ -1,22 +1,26 @@
 name: Release
 
-# Publishes @bambiste/countries to public npm when a version tag (v*) is pushed:
-#   npm version patch && git push --follow-tags   (or push a v* tag manually)
-# Requires an NPM_TOKEN secret with publish rights to the @bambiste org.
+# Runs on every push to master.
+# - Pending changesets present  → opens/updates a "Version Packages" PR
+# - "Version Packages" PR merged → builds & publishes to public npm
 on:
   push:
-    tags: ['v*']
-  workflow_dispatch:
+    branches: [master]
+
+concurrency: ${{ github.workflow }}-${{ github.ref }}
 
 permissions:
-  contents: read
+  contents: write
+  pull-requests: write
 
 jobs:
-  publish:
-    name: Publish to npm
+  release:
+    name: Version or publish
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
@@ -27,20 +31,34 @@ jobs:
       - name: Install
         run: npm ci
 
-      # prepublishOnly runs the tsc build; publishConfig sets access: public.
-      # Derive the dist-tag from the version so a prerelease never lands as `latest`:
-      #   1.2.3        → latest
-      #   1.2.3-next.0 → next   (reachable via @next; latest stays on the stable line)
-      # Then reconcile the tag to this version so @<tag> always resolves the newest.
-      - name: Publish + set dist-tag
+      # changesets/action: pending changesets → version PR; none left → `npm run
+      # release` (changeset publish); prepublishOnly runs the tsc build.
+      - name: Create version PR or publish
+        uses: changesets/action@v1
+        with:
+          version: npm run version
+          publish: npm run release
+          title: 'chore: version packages'
+          commit: 'chore: version packages'
+        env:
+          # Built-in token pushes tags / opens the version PR on this repo.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # npm publish auth — NPM_TOKEN needs publish rights to the @bambiste org.
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      # Self-healing dist-tag guard: keep the intended tag on the version currently
+      # in the workspace — `latest` on master, or the pre tag (next/alpha) in
+      # changesets prerelease mode — so `@<tag>` always resolves the newest build.
+      - name: Reconcile dist-tag
+        if: ${{ !cancelled() }}
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
           set -e
           name=$(node -p "require('./package.json').name")
           ver=$(node -p "require('./package.json').version")
-          if echo "$ver" | grep -q '-'; then TAG=$(echo "$ver" | sed -E 's/.*-([A-Za-z]+).*/\1/'); else TAG=latest; fi
-          echo "Publishing $name@$ver under dist-tag: $TAG"
-          npm publish --tag "$TAG"
+          TAG=latest
+          [ -f .changeset/pre.json ] && TAG=$(node -p "require('./.changeset/pre.json').tag")
+          npm view "$name@$ver" version >/dev/null 2>&1 || { echo "skip $name@$ver (not on npm)"; exit 0; }
           cur=$(npm dist-tag ls "$name" 2>/dev/null | awk -v t="$TAG:" '$1==t{print $2}')
           [ "$cur" = "$ver" ] && echo "  $TAG already $ver" || npm dist-tag add "$name@$ver" "$TAG"
