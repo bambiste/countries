@@ -27,9 +27,20 @@ jobs:
       - name: Install
         run: npm ci
 
-      # prepublishOnly runs the tsc build. --provenance is skipped (repo may be
-      # private); publishConfig sets access: public.
-      - name: Publish
-        run: npm publish
+      # prepublishOnly runs the tsc build; publishConfig sets access: public.
+      # Derive the dist-tag from the version so a prerelease never lands as `latest`:
+      #   1.2.3        → latest
+      #   1.2.3-next.0 → next   (reachable via @next; latest stays on the stable line)
+      # Then reconcile the tag to this version so @<tag> always resolves the newest.
+      - name: Publish + set dist-tag
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          set -e
+          name=$(node -p "require('./package.json').name")
+          ver=$(node -p "require('./package.json').version")
+          if echo "$ver" | grep -q '-'; then TAG=$(echo "$ver" | sed -E 's/.*-([A-Za-z]+).*/\1/'); else TAG=latest; fi
+          echo "Publishing $name@$ver under dist-tag: $TAG"
+          npm publish --tag "$TAG"
+          cur=$(npm dist-tag ls "$name" 2>/dev/null | awk -v t="$TAG:" '$1==t{print $2}')
+          [ "$cur" = "$ver" ] && echo "  $TAG already $ver" || npm dist-tag add "$name@$ver" "$TAG"
