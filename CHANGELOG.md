@@ -1,5 +1,11 @@
 # @bambiste/countries
 
+## 0.2.1
+
+### Patch Changes
+
+- 032fc1b: Importing `@bambiste/countries/elements` now works on the server and registers the elements only in the browser.
+
 ## 0.2.0
 
 ### Minor Changes
