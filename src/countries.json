@@ -8,7 +8,9 @@
     },
     "region": "Asia",
     "subregion": "Southern Asia",
-    "flag": "🇦🇫"
+    "flag": "🇦🇫",
+    "callingCode": "+93",
+    "areaCodes": []
   },
   {
     "cca2": "AX",
@@ -19,7 +21,11 @@
     },
     "region": "Europe",
     "subregion": "Northern Europe",
-    "flag": "🇦🇽"
+    "flag": "🇦🇽",
+    "callingCode": "+358",
+    "areaCodes": [
+      "18"
+    ]
   },
   {
     "cca2": "AL",
@@ -30,7 +36,9 @@
     },
     "region": "Europe",
     "subregion": "Southeast Europe",
-    "flag": "🇦🇱"
+    "flag": "🇦🇱",
+    "callingCode": "+355",
+    "areaCodes": []
   },
   {
     "cca2": "DZ",
@@ -41,7 +49,9 @@
     },
     "region": "Africa",
     "subregion": "Northern Africa",
-    "flag": "🇩🇿"
+    "flag": "🇩🇿",
+    "callingCode": "+213",
+    "areaCodes": []
   },
   {
     "cca2": "AS",
@@ -52,7 +62,11 @@
     },
     "region": "Oceania",
     "subregion": "Polynesia",
-    "flag": "🇦🇸"
+    "flag": "🇦🇸",
+    "callingCode": "+1",
+    "areaCodes": [
+      "684"
+    ]
   },
   {
     "cca2": "AD",
@@ -63,7 +77,9 @@
     },
     "region": "Europe",
     "subregion": "Southern Europe",
-    "flag": "🇦🇩"
+    "flag": "🇦🇩",
+    "callingCode": "+376",
+    "areaCodes": []
   },
   {
     "cca2": "AO",
@@ -74,7 +90,9 @@
     },
     "region": "Africa",
     "subregion": "Middle Africa",
-    "flag": "🇦🇴"
+    "flag": "🇦🇴",
+    "callingCode": "+244",
+    "areaCodes": []
   },
   {
     "cca2": "AI",
@@ -85,7 +103,11 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇦🇮"
+    "flag": "🇦🇮",
+    "callingCode": "+1",
+    "areaCodes": [
+      "264"
+    ]
   },
   {
     "cca2": "AQ",
@@ -96,7 +118,9 @@
     },
     "region": "Antarctic",
     "subregion": "",
-    "flag": "🇦🇶"
+    "flag": "🇦🇶",
+    "callingCode": "",
+    "areaCodes": []
   },
   {
     "cca2": "AG",
@@ -107,7 +131,11 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇦🇬"
+    "flag": "🇦🇬",
+    "callingCode": "+1",
+    "areaCodes": [
+      "268"
+    ]
   },
   {
     "cca2": "AR",
@@ -118,7 +146,9 @@
     },
     "region": "Americas",
     "subregion": "South America",
-    "flag": "🇦🇷"
+    "flag": "🇦🇷",
+    "callingCode": "+54",
+    "areaCodes": []
   },
   {
     "cca2": "AM",
@@ -129,7 +159,9 @@
     },
     "region": "Asia",
     "subregion": "Western Asia",
-    "flag": "🇦🇲"
+    "flag": "🇦🇲",
+    "callingCode": "+374",
+    "areaCodes": []
   },
   {
     "cca2": "AW",
@@ -140,7 +172,9 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇦🇼"
+    "flag": "🇦🇼",
+    "callingCode": "+297",
+    "areaCodes": []
   },
   {
     "cca2": "AU",
@@ -151,7 +185,9 @@
     },
     "region": "Oceania",
     "subregion": "Australia and New Zealand",
-    "flag": "🇦🇺"
+    "flag": "🇦🇺",
+    "callingCode": "+61",
+    "areaCodes": []
   },
   {
     "cca2": "AT",
@@ -162,7 +198,9 @@
     },
     "region": "Europe",
     "subregion": "Central Europe",
-    "flag": "🇦🇹"
+    "flag": "🇦🇹",
+    "callingCode": "+43",
+    "areaCodes": []
   },
   {
     "cca2": "AZ",
@@ -173,7 +211,9 @@
     },
     "region": "Asia",
     "subregion": "Western Asia",
-    "flag": "🇦🇿"
+    "flag": "🇦🇿",
+    "callingCode": "+994",
+    "areaCodes": []
   },
   {
     "cca2": "BS",
@@ -184,7 +224,11 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇧🇸"
+    "flag": "🇧🇸",
+    "callingCode": "+1",
+    "areaCodes": [
+      "242"
+    ]
   },
   {
     "cca2": "BH",
@@ -195,7 +239,9 @@
     },
     "region": "Asia",
     "subregion": "Western Asia",
-    "flag": "🇧🇭"
+    "flag": "🇧🇭",
+    "callingCode": "+973",
+    "areaCodes": []
   },
   {
     "cca2": "BD",
@@ -206,7 +252,9 @@
     },
     "region": "Asia",
     "subregion": "Southern Asia",
-    "flag": "🇧🇩"
+    "flag": "🇧🇩",
+    "callingCode": "+880",
+    "areaCodes": []
   },
   {
     "cca2": "BB",
@@ -217,7 +265,11 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇧🇧"
+    "flag": "🇧🇧",
+    "callingCode": "+1",
+    "areaCodes": [
+      "246"
+    ]
   },
   {
     "cca2": "BY",
@@ -228,7 +280,9 @@
     },
     "region": "Europe",
     "subregion": "Eastern Europe",
-    "flag": "🇧🇾"
+    "flag": "🇧🇾",
+    "callingCode": "+375",
+    "areaCodes": []
   },
   {
     "cca2": "BE",
@@ -239,7 +293,9 @@
     },
     "region": "Europe",
     "subregion": "Western Europe",
-    "flag": "🇧🇪"
+    "flag": "🇧🇪",
+    "callingCode": "+32",
+    "areaCodes": []
   },
   {
     "cca2": "BZ",
@@ -250,7 +306,9 @@
     },
     "region": "Americas",
     "subregion": "Central America",
-    "flag": "🇧🇿"
+    "flag": "🇧🇿",
+    "callingCode": "+501",
+    "areaCodes": []
   },
   {
     "cca2": "BJ",
@@ -261,7 +319,9 @@
     },
     "region": "Africa",
     "subregion": "Western Africa",
-    "flag": "🇧🇯"
+    "flag": "🇧🇯",
+    "callingCode": "+229",
+    "areaCodes": []
   },
   {
     "cca2": "BM",
@@ -272,7 +332,11 @@
     },
     "region": "Americas",
     "subregion": "North America",
-    "flag": "🇧🇲"
+    "flag": "🇧🇲",
+    "callingCode": "+1",
+    "areaCodes": [
+      "441"
+    ]
   },
   {
     "cca2": "BT",
@@ -283,7 +347,9 @@
     },
     "region": "Asia",
     "subregion": "Southern Asia",
-    "flag": "🇧🇹"
+    "flag": "🇧🇹",
+    "callingCode": "+975",
+    "areaCodes": []
   },
   {
     "cca2": "BO",
@@ -294,7 +360,9 @@
     },
     "region": "Americas",
     "subregion": "South America",
-    "flag": "🇧🇴"
+    "flag": "🇧🇴",
+    "callingCode": "+591",
+    "areaCodes": []
   },
   {
     "cca2": "BA",
@@ -305,7 +373,9 @@
     },
     "region": "Europe",
     "subregion": "Southeast Europe",
-    "flag": "🇧🇦"
+    "flag": "🇧🇦",
+    "callingCode": "+387",
+    "areaCodes": []
   },
   {
     "cca2": "BW",
@@ -316,7 +386,9 @@
     },
     "region": "Africa",
     "subregion": "Southern Africa",
-    "flag": "🇧🇼"
+    "flag": "🇧🇼",
+    "callingCode": "+267",
+    "areaCodes": []
   },
   {
     "cca2": "BV",
@@ -327,7 +399,9 @@
     },
     "region": "Antarctic",
     "subregion": "",
-    "flag": "🇧🇻"
+    "flag": "🇧🇻",
+    "callingCode": "+47",
+    "areaCodes": []
   },
   {
     "cca2": "BR",
@@ -338,7 +412,9 @@
     },
     "region": "Americas",
     "subregion": "South America",
-    "flag": "🇧🇷"
+    "flag": "🇧🇷",
+    "callingCode": "+55",
+    "areaCodes": []
   },
   {
     "cca2": "IO",
@@ -349,7 +425,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇮🇴"
+    "flag": "🇮🇴",
+    "callingCode": "+246",
+    "areaCodes": []
   },
   {
     "cca2": "VG",
@@ -360,7 +438,11 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇻🇬"
+    "flag": "🇻🇬",
+    "callingCode": "+1",
+    "areaCodes": [
+      "284"
+    ]
   },
   {
     "cca2": "BN",
@@ -371,7 +453,9 @@
     },
     "region": "Asia",
     "subregion": "South-Eastern Asia",
-    "flag": "🇧🇳"
+    "flag": "🇧🇳",
+    "callingCode": "+673",
+    "areaCodes": []
   },
   {
     "cca2": "BG",
@@ -382,7 +466,9 @@
     },
     "region": "Europe",
     "subregion": "Southeast Europe",
-    "flag": "🇧🇬"
+    "flag": "🇧🇬",
+    "callingCode": "+359",
+    "areaCodes": []
   },
   {
     "cca2": "BF",
@@ -393,7 +479,9 @@
     },
     "region": "Africa",
     "subregion": "Western Africa",
-    "flag": "🇧🇫"
+    "flag": "🇧🇫",
+    "callingCode": "+226",
+    "areaCodes": []
   },
   {
     "cca2": "BI",
@@ -404,7 +492,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇧🇮"
+    "flag": "🇧🇮",
+    "callingCode": "+257",
+    "areaCodes": []
   },
   {
     "cca2": "KH",
@@ -415,7 +505,9 @@
     },
     "region": "Asia",
     "subregion": "South-Eastern Asia",
-    "flag": "🇰🇭"
+    "flag": "🇰🇭",
+    "callingCode": "+855",
+    "areaCodes": []
   },
   {
     "cca2": "CM",
@@ -426,7 +518,9 @@
     },
     "region": "Africa",
     "subregion": "Middle Africa",
-    "flag": "🇨🇲"
+    "flag": "🇨🇲",
+    "callingCode": "+237",
+    "areaCodes": []
   },
   {
     "cca2": "CA",
@@ -437,7 +531,72 @@
     },
     "region": "Americas",
     "subregion": "North America",
-    "flag": "🇨🇦"
+    "flag": "🇨🇦",
+    "callingCode": "+1",
+    "areaCodes": [
+      "204",
+      "226",
+      "236",
+      "249",
+      "250",
+      "263",
+      "289",
+      "306",
+      "343",
+      "354",
+      "365",
+      "367",
+      "368",
+      "382",
+      "387",
+      "403",
+      "416",
+      "418",
+      "428",
+      "431",
+      "437",
+      "438",
+      "450",
+      "468",
+      "474",
+      "506",
+      "514",
+      "519",
+      "548",
+      "579",
+      "581",
+      "584",
+      "587",
+      "600",
+      "604",
+      "613",
+      "622",
+      "633",
+      "639",
+      "644",
+      "647",
+      "655",
+      "672",
+      "677",
+      "683",
+      "688",
+      "705",
+      "709",
+      "742",
+      "753",
+      "778",
+      "780",
+      "782",
+      "807",
+      "819",
+      "825",
+      "867",
+      "873",
+      "879",
+      "902",
+      "905",
+      "942"
+    ]
   },
   {
     "cca2": "CV",
@@ -448,7 +607,9 @@
     },
     "region": "Africa",
     "subregion": "Western Africa",
-    "flag": "🇨🇻"
+    "flag": "🇨🇻",
+    "callingCode": "+238",
+    "areaCodes": []
   },
   {
     "cca2": "BQ",
@@ -459,7 +620,9 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": ""
+    "flag": "",
+    "callingCode": "+599",
+    "areaCodes": []
   },
   {
     "cca2": "KY",
@@ -470,7 +633,11 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇰🇾"
+    "flag": "🇰🇾",
+    "callingCode": "+1",
+    "areaCodes": [
+      "345"
+    ]
   },
   {
     "cca2": "CF",
@@ -481,7 +648,9 @@
     },
     "region": "Africa",
     "subregion": "Middle Africa",
-    "flag": "🇨🇫"
+    "flag": "🇨🇫",
+    "callingCode": "+236",
+    "areaCodes": []
   },
   {
     "cca2": "TD",
@@ -492,7 +661,9 @@
     },
     "region": "Africa",
     "subregion": "Middle Africa",
-    "flag": "🇹🇩"
+    "flag": "🇹🇩",
+    "callingCode": "+235",
+    "areaCodes": []
   },
   {
     "cca2": "CL",
@@ -503,7 +674,9 @@
     },
     "region": "Americas",
     "subregion": "South America",
-    "flag": "🇨🇱"
+    "flag": "🇨🇱",
+    "callingCode": "+56",
+    "areaCodes": []
   },
   {
     "cca2": "CN",
@@ -514,7 +687,9 @@
     },
     "region": "Asia",
     "subregion": "Eastern Asia",
-    "flag": "🇨🇳"
+    "flag": "🇨🇳",
+    "callingCode": "+86",
+    "areaCodes": []
   },
   {
     "cca2": "CX",
@@ -525,7 +700,9 @@
     },
     "region": "Oceania",
     "subregion": "Australia and New Zealand",
-    "flag": "🇨🇽"
+    "flag": "🇨🇽",
+    "callingCode": "+61",
+    "areaCodes": []
   },
   {
     "cca2": "CC",
@@ -536,7 +713,9 @@
     },
     "region": "Oceania",
     "subregion": "Australia and New Zealand",
-    "flag": "🇨🇨"
+    "flag": "🇨🇨",
+    "callingCode": "+61",
+    "areaCodes": []
   },
   {
     "cca2": "CO",
@@ -547,7 +726,9 @@
     },
     "region": "Americas",
     "subregion": "South America",
-    "flag": "🇨🇴"
+    "flag": "🇨🇴",
+    "callingCode": "+57",
+    "areaCodes": []
   },
   {
     "cca2": "KM",
@@ -558,7 +739,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇰🇲"
+    "flag": "🇰🇲",
+    "callingCode": "+269",
+    "areaCodes": []
   },
   {
     "cca2": "CK",
@@ -569,7 +752,9 @@
     },
     "region": "Oceania",
     "subregion": "Polynesia",
-    "flag": "🇨🇰"
+    "flag": "🇨🇰",
+    "callingCode": "+682",
+    "areaCodes": []
   },
   {
     "cca2": "CR",
@@ -580,7 +765,9 @@
     },
     "region": "Americas",
     "subregion": "Central America",
-    "flag": "🇨🇷"
+    "flag": "🇨🇷",
+    "callingCode": "+506",
+    "areaCodes": []
   },
   {
     "cca2": "HR",
@@ -591,7 +778,9 @@
     },
     "region": "Europe",
     "subregion": "Southeast Europe",
-    "flag": "🇭🇷"
+    "flag": "🇭🇷",
+    "callingCode": "+385",
+    "areaCodes": []
   },
   {
     "cca2": "CU",
@@ -602,7 +791,9 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇨🇺"
+    "flag": "🇨🇺",
+    "callingCode": "+53",
+    "areaCodes": []
   },
   {
     "cca2": "CW",
@@ -613,7 +804,9 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇨🇼"
+    "flag": "🇨🇼",
+    "callingCode": "+599",
+    "areaCodes": []
   },
   {
     "cca2": "CY",
@@ -624,7 +817,9 @@
     },
     "region": "Europe",
     "subregion": "Southern Europe",
-    "flag": "🇨🇾"
+    "flag": "🇨🇾",
+    "callingCode": "+357",
+    "areaCodes": []
   },
   {
     "cca2": "CZ",
@@ -635,7 +830,9 @@
     },
     "region": "Europe",
     "subregion": "Central Europe",
-    "flag": "🇨🇿"
+    "flag": "🇨🇿",
+    "callingCode": "+420",
+    "areaCodes": []
   },
   {
     "cca2": "DK",
@@ -646,7 +843,9 @@
     },
     "region": "Europe",
     "subregion": "Northern Europe",
-    "flag": "🇩🇰"
+    "flag": "🇩🇰",
+    "callingCode": "+45",
+    "areaCodes": []
   },
   {
     "cca2": "DJ",
@@ -657,7 +856,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇩🇯"
+    "flag": "🇩🇯",
+    "callingCode": "+253",
+    "areaCodes": []
   },
   {
     "cca2": "DM",
@@ -668,7 +869,11 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇩🇲"
+    "flag": "🇩🇲",
+    "callingCode": "+1",
+    "areaCodes": [
+      "767"
+    ]
   },
   {
     "cca2": "DO",
@@ -679,7 +884,13 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇩🇴"
+    "flag": "🇩🇴",
+    "callingCode": "+1",
+    "areaCodes": [
+      "809",
+      "829",
+      "849"
+    ]
   },
   {
     "cca2": "CD",
@@ -690,7 +901,9 @@
     },
     "region": "Africa",
     "subregion": "Middle Africa",
-    "flag": "🇨🇩"
+    "flag": "🇨🇩",
+    "callingCode": "+243",
+    "areaCodes": []
   },
   {
     "cca2": "EC",
@@ -701,7 +914,9 @@
     },
     "region": "Americas",
     "subregion": "South America",
-    "flag": "🇪🇨"
+    "flag": "🇪🇨",
+    "callingCode": "+593",
+    "areaCodes": []
   },
   {
     "cca2": "EG",
@@ -712,7 +927,9 @@
     },
     "region": "Africa",
     "subregion": "Northern Africa",
-    "flag": "🇪🇬"
+    "flag": "🇪🇬",
+    "callingCode": "+20",
+    "areaCodes": []
   },
   {
     "cca2": "SV",
@@ -723,7 +940,9 @@
     },
     "region": "Americas",
     "subregion": "Central America",
-    "flag": "🇸🇻"
+    "flag": "🇸🇻",
+    "callingCode": "+503",
+    "areaCodes": []
   },
   {
     "cca2": "GQ",
@@ -734,7 +953,9 @@
     },
     "region": "Africa",
     "subregion": "Middle Africa",
-    "flag": "🇬🇶"
+    "flag": "🇬🇶",
+    "callingCode": "+240",
+    "areaCodes": []
   },
   {
     "cca2": "ER",
@@ -745,7 +966,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇪🇷"
+    "flag": "🇪🇷",
+    "callingCode": "+291",
+    "areaCodes": []
   },
   {
     "cca2": "EE",
@@ -756,7 +979,9 @@
     },
     "region": "Europe",
     "subregion": "Northern Europe",
-    "flag": "🇪🇪"
+    "flag": "🇪🇪",
+    "callingCode": "+372",
+    "areaCodes": []
   },
   {
     "cca2": "SZ",
@@ -767,7 +992,9 @@
     },
     "region": "Africa",
     "subregion": "Southern Africa",
-    "flag": "🇸🇿"
+    "flag": "🇸🇿",
+    "callingCode": "+268",
+    "areaCodes": []
   },
   {
     "cca2": "ET",
@@ -778,7 +1005,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇪🇹"
+    "flag": "🇪🇹",
+    "callingCode": "+251",
+    "areaCodes": []
   },
   {
     "cca2": "FK",
@@ -789,7 +1018,9 @@
     },
     "region": "Americas",
     "subregion": "South America",
-    "flag": "🇫🇰"
+    "flag": "🇫🇰",
+    "callingCode": "+500",
+    "areaCodes": []
   },
   {
     "cca2": "FO",
@@ -800,7 +1031,9 @@
     },
     "region": "Europe",
     "subregion": "Northern Europe",
-    "flag": "🇫🇴"
+    "flag": "🇫🇴",
+    "callingCode": "+298",
+    "areaCodes": []
   },
   {
     "cca2": "FJ",
@@ -811,7 +1044,9 @@
     },
     "region": "Oceania",
     "subregion": "Melanesia",
-    "flag": "🇫🇯"
+    "flag": "🇫🇯",
+    "callingCode": "+679",
+    "areaCodes": []
   },
   {
     "cca2": "FI",
@@ -822,7 +1057,9 @@
     },
     "region": "Europe",
     "subregion": "Northern Europe",
-    "flag": "🇫🇮"
+    "flag": "🇫🇮",
+    "callingCode": "+358",
+    "areaCodes": []
   },
   {
     "cca2": "FR",
@@ -833,7 +1070,9 @@
     },
     "region": "Europe",
     "subregion": "Western Europe",
-    "flag": "🇫🇷"
+    "flag": "🇫🇷",
+    "callingCode": "+33",
+    "areaCodes": []
   },
   {
     "cca2": "GF",
@@ -844,7 +1083,9 @@
     },
     "region": "Americas",
     "subregion": "South America",
-    "flag": "🇬🇫"
+    "flag": "🇬🇫",
+    "callingCode": "+594",
+    "areaCodes": []
   },
   {
     "cca2": "PF",
@@ -855,7 +1096,9 @@
     },
     "region": "Oceania",
     "subregion": "Polynesia",
-    "flag": "🇵🇫"
+    "flag": "🇵🇫",
+    "callingCode": "+689",
+    "areaCodes": []
   },
   {
     "cca2": "TF",
@@ -866,7 +1109,9 @@
     },
     "region": "Antarctic",
     "subregion": "",
-    "flag": "🇹🇫"
+    "flag": "🇹🇫",
+    "callingCode": "+262",
+    "areaCodes": []
   },
   {
     "cca2": "GA",
@@ -877,7 +1122,9 @@
     },
     "region": "Africa",
     "subregion": "Middle Africa",
-    "flag": "🇬🇦"
+    "flag": "🇬🇦",
+    "callingCode": "+241",
+    "areaCodes": []
   },
   {
     "cca2": "GM",
@@ -888,7 +1135,9 @@
     },
     "region": "Africa",
     "subregion": "Western Africa",
-    "flag": "🇬🇲"
+    "flag": "🇬🇲",
+    "callingCode": "+220",
+    "areaCodes": []
   },
   {
     "cca2": "GE",
@@ -899,7 +1148,9 @@
     },
     "region": "Asia",
     "subregion": "Western Asia",
-    "flag": "🇬🇪"
+    "flag": "🇬🇪",
+    "callingCode": "+995",
+    "areaCodes": []
   },
   {
     "cca2": "DE",
@@ -910,7 +1161,9 @@
     },
     "region": "Europe",
     "subregion": "Western Europe",
-    "flag": "🇩🇪"
+    "flag": "🇩🇪",
+    "callingCode": "+49",
+    "areaCodes": []
   },
   {
     "cca2": "GH",
@@ -921,7 +1174,9 @@
     },
     "region": "Africa",
     "subregion": "Western Africa",
-    "flag": "🇬🇭"
+    "flag": "🇬🇭",
+    "callingCode": "+233",
+    "areaCodes": []
   },
   {
     "cca2": "GI",
@@ -932,7 +1187,9 @@
     },
     "region": "Europe",
     "subregion": "Southern Europe",
-    "flag": "🇬🇮"
+    "flag": "🇬🇮",
+    "callingCode": "+350",
+    "areaCodes": []
   },
   {
     "cca2": "GR",
@@ -943,7 +1200,9 @@
     },
     "region": "Europe",
     "subregion": "Southern Europe",
-    "flag": "🇬🇷"
+    "flag": "🇬🇷",
+    "callingCode": "+30",
+    "areaCodes": []
   },
   {
     "cca2": "GL",
@@ -954,7 +1213,9 @@
     },
     "region": "Americas",
     "subregion": "North America",
-    "flag": "🇬🇱"
+    "flag": "🇬🇱",
+    "callingCode": "+299",
+    "areaCodes": []
   },
   {
     "cca2": "GD",
@@ -965,7 +1226,11 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇬🇩"
+    "flag": "🇬🇩",
+    "callingCode": "+1",
+    "areaCodes": [
+      "473"
+    ]
   },
   {
     "cca2": "GP",
@@ -976,7 +1241,9 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇬🇵"
+    "flag": "🇬🇵",
+    "callingCode": "+590",
+    "areaCodes": []
   },
   {
     "cca2": "GU",
@@ -987,7 +1254,11 @@
     },
     "region": "Oceania",
     "subregion": "Micronesia",
-    "flag": "🇬🇺"
+    "flag": "🇬🇺",
+    "callingCode": "+1",
+    "areaCodes": [
+      "671"
+    ]
   },
   {
     "cca2": "GT",
@@ -998,7 +1269,9 @@
     },
     "region": "Americas",
     "subregion": "Central America",
-    "flag": "🇬🇹"
+    "flag": "🇬🇹",
+    "callingCode": "+502",
+    "areaCodes": []
   },
   {
     "cca2": "GG",
@@ -1009,7 +1282,9 @@
     },
     "region": "Europe",
     "subregion": "Northern Europe",
-    "flag": "🇬🇬"
+    "flag": "🇬🇬",
+    "callingCode": "+44",
+    "areaCodes": []
   },
   {
     "cca2": "GN",
@@ -1020,7 +1295,9 @@
     },
     "region": "Africa",
     "subregion": "Western Africa",
-    "flag": "🇬🇳"
+    "flag": "🇬🇳",
+    "callingCode": "+224",
+    "areaCodes": []
   },
   {
     "cca2": "GW",
@@ -1031,7 +1308,9 @@
     },
     "region": "Africa",
     "subregion": "Western Africa",
-    "flag": "🇬🇼"
+    "flag": "🇬🇼",
+    "callingCode": "+245",
+    "areaCodes": []
   },
   {
     "cca2": "GY",
@@ -1042,7 +1321,9 @@
     },
     "region": "Americas",
     "subregion": "South America",
-    "flag": "🇬🇾"
+    "flag": "🇬🇾",
+    "callingCode": "+592",
+    "areaCodes": []
   },
   {
     "cca2": "HT",
@@ -1053,7 +1334,9 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇭🇹"
+    "flag": "🇭🇹",
+    "callingCode": "+509",
+    "areaCodes": []
   },
   {
     "cca2": "HM",
@@ -1064,7 +1347,9 @@
     },
     "region": "Antarctic",
     "subregion": "",
-    "flag": "🇭🇲"
+    "flag": "🇭🇲",
+    "callingCode": "",
+    "areaCodes": []
   },
   {
     "cca2": "HN",
@@ -1075,7 +1360,9 @@
     },
     "region": "Americas",
     "subregion": "Central America",
-    "flag": "🇭🇳"
+    "flag": "🇭🇳",
+    "callingCode": "+504",
+    "areaCodes": []
   },
   {
     "cca2": "HK",
@@ -1086,7 +1373,9 @@
     },
     "region": "Asia",
     "subregion": "Eastern Asia",
-    "flag": "🇭🇰"
+    "flag": "🇭🇰",
+    "callingCode": "+852",
+    "areaCodes": []
   },
   {
     "cca2": "HU",
@@ -1097,7 +1386,9 @@
     },
     "region": "Europe",
     "subregion": "Central Europe",
-    "flag": "🇭🇺"
+    "flag": "🇭🇺",
+    "callingCode": "+36",
+    "areaCodes": []
   },
   {
     "cca2": "IS",
@@ -1108,7 +1399,9 @@
     },
     "region": "Europe",
     "subregion": "Northern Europe",
-    "flag": "🇮🇸"
+    "flag": "🇮🇸",
+    "callingCode": "+354",
+    "areaCodes": []
   },
   {
     "cca2": "IN",
@@ -1119,7 +1412,9 @@
     },
     "region": "Asia",
     "subregion": "Southern Asia",
-    "flag": "🇮🇳"
+    "flag": "🇮🇳",
+    "callingCode": "+91",
+    "areaCodes": []
   },
   {
     "cca2": "ID",
@@ -1130,7 +1425,9 @@
     },
     "region": "Asia",
     "subregion": "South-Eastern Asia",
-    "flag": "🇮🇩"
+    "flag": "🇮🇩",
+    "callingCode": "+62",
+    "areaCodes": []
   },
   {
     "cca2": "IR",
@@ -1141,7 +1438,9 @@
     },
     "region": "Asia",
     "subregion": "Southern Asia",
-    "flag": "🇮🇷"
+    "flag": "🇮🇷",
+    "callingCode": "+98",
+    "areaCodes": []
   },
   {
     "cca2": "IQ",
@@ -1152,7 +1451,9 @@
     },
     "region": "Asia",
     "subregion": "Western Asia",
-    "flag": "🇮🇶"
+    "flag": "🇮🇶",
+    "callingCode": "+964",
+    "areaCodes": []
   },
   {
     "cca2": "IE",
@@ -1163,7 +1464,9 @@
     },
     "region": "Europe",
     "subregion": "Northern Europe",
-    "flag": "🇮🇪"
+    "flag": "🇮🇪",
+    "callingCode": "+353",
+    "areaCodes": []
   },
   {
     "cca2": "IM",
@@ -1174,7 +1477,9 @@
     },
     "region": "Europe",
     "subregion": "Northern Europe",
-    "flag": "🇮🇲"
+    "flag": "🇮🇲",
+    "callingCode": "+44",
+    "areaCodes": []
   },
   {
     "cca2": "IL",
@@ -1185,7 +1490,9 @@
     },
     "region": "Asia",
     "subregion": "Western Asia",
-    "flag": "🇮🇱"
+    "flag": "🇮🇱",
+    "callingCode": "+972",
+    "areaCodes": []
   },
   {
     "cca2": "IT",
@@ -1196,7 +1503,9 @@
     },
     "region": "Europe",
     "subregion": "Southern Europe",
-    "flag": "🇮🇹"
+    "flag": "🇮🇹",
+    "callingCode": "+39",
+    "areaCodes": []
   },
   {
     "cca2": "CI",
@@ -1207,7 +1516,9 @@
     },
     "region": "Africa",
     "subregion": "Western Africa",
-    "flag": "🇨🇮"
+    "flag": "🇨🇮",
+    "callingCode": "+225",
+    "areaCodes": []
   },
   {
     "cca2": "JM",
@@ -1218,7 +1529,11 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇯🇲"
+    "flag": "🇯🇲",
+    "callingCode": "+1",
+    "areaCodes": [
+      "876"
+    ]
   },
   {
     "cca2": "JP",
@@ -1229,7 +1544,9 @@
     },
     "region": "Asia",
     "subregion": "Eastern Asia",
-    "flag": "🇯🇵"
+    "flag": "🇯🇵",
+    "callingCode": "+81",
+    "areaCodes": []
   },
   {
     "cca2": "JE",
@@ -1240,7 +1557,9 @@
     },
     "region": "Europe",
     "subregion": "Northern Europe",
-    "flag": "🇯🇪"
+    "flag": "🇯🇪",
+    "callingCode": "+44",
+    "areaCodes": []
   },
   {
     "cca2": "JO",
@@ -1251,7 +1570,9 @@
     },
     "region": "Asia",
     "subregion": "Western Asia",
-    "flag": "🇯🇴"
+    "flag": "🇯🇴",
+    "callingCode": "+962",
+    "areaCodes": []
   },
   {
     "cca2": "KZ",
@@ -1262,7 +1583,12 @@
     },
     "region": "Asia",
     "subregion": "Central Asia",
-    "flag": "🇰🇿"
+    "flag": "🇰🇿",
+    "callingCode": "+7",
+    "areaCodes": [
+      "6",
+      "7"
+    ]
   },
   {
     "cca2": "KE",
@@ -1273,7 +1599,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇰🇪"
+    "flag": "🇰🇪",
+    "callingCode": "+254",
+    "areaCodes": []
   },
   {
     "cca2": "KI",
@@ -1284,7 +1612,9 @@
     },
     "region": "Oceania",
     "subregion": "Micronesia",
-    "flag": "🇰🇮"
+    "flag": "🇰🇮",
+    "callingCode": "+686",
+    "areaCodes": []
   },
   {
     "cca2": "XK",
@@ -1295,7 +1625,9 @@
     },
     "region": "Europe",
     "subregion": "Southeast Europe",
-    "flag": "🇽🇰"
+    "flag": "🇽🇰",
+    "callingCode": "+383",
+    "areaCodes": []
   },
   {
     "cca2": "KW",
@@ -1306,7 +1638,9 @@
     },
     "region": "Asia",
     "subregion": "Western Asia",
-    "flag": "🇰🇼"
+    "flag": "🇰🇼",
+    "callingCode": "+965",
+    "areaCodes": []
   },
   {
     "cca2": "KG",
@@ -1317,7 +1651,9 @@
     },
     "region": "Asia",
     "subregion": "Central Asia",
-    "flag": "🇰🇬"
+    "flag": "🇰🇬",
+    "callingCode": "+996",
+    "areaCodes": []
   },
   {
     "cca2": "LA",
@@ -1328,7 +1664,9 @@
     },
     "region": "Asia",
     "subregion": "South-Eastern Asia",
-    "flag": "🇱🇦"
+    "flag": "🇱🇦",
+    "callingCode": "+856",
+    "areaCodes": []
   },
   {
     "cca2": "LV",
@@ -1339,7 +1677,9 @@
     },
     "region": "Europe",
     "subregion": "Northern Europe",
-    "flag": "🇱🇻"
+    "flag": "🇱🇻",
+    "callingCode": "+371",
+    "areaCodes": []
   },
   {
     "cca2": "LB",
@@ -1350,7 +1690,9 @@
     },
     "region": "Asia",
     "subregion": "Western Asia",
-    "flag": "🇱🇧"
+    "flag": "🇱🇧",
+    "callingCode": "+961",
+    "areaCodes": []
   },
   {
     "cca2": "LS",
@@ -1361,7 +1703,9 @@
     },
     "region": "Africa",
     "subregion": "Southern Africa",
-    "flag": "🇱🇸"
+    "flag": "🇱🇸",
+    "callingCode": "+266",
+    "areaCodes": []
   },
   {
     "cca2": "LR",
@@ -1372,7 +1716,9 @@
     },
     "region": "Africa",
     "subregion": "Western Africa",
-    "flag": "🇱🇷"
+    "flag": "🇱🇷",
+    "callingCode": "+231",
+    "areaCodes": []
   },
   {
     "cca2": "LY",
@@ -1383,7 +1729,9 @@
     },
     "region": "Africa",
     "subregion": "Northern Africa",
-    "flag": "🇱🇾"
+    "flag": "🇱🇾",
+    "callingCode": "+218",
+    "areaCodes": []
   },
   {
     "cca2": "LI",
@@ -1394,7 +1742,9 @@
     },
     "region": "Europe",
     "subregion": "Western Europe",
-    "flag": "🇱🇮"
+    "flag": "🇱🇮",
+    "callingCode": "+423",
+    "areaCodes": []
   },
   {
     "cca2": "LT",
@@ -1405,7 +1755,9 @@
     },
     "region": "Europe",
     "subregion": "Northern Europe",
-    "flag": "🇱🇹"
+    "flag": "🇱🇹",
+    "callingCode": "+370",
+    "areaCodes": []
   },
   {
     "cca2": "LU",
@@ -1416,7 +1768,9 @@
     },
     "region": "Europe",
     "subregion": "Western Europe",
-    "flag": "🇱🇺"
+    "flag": "🇱🇺",
+    "callingCode": "+352",
+    "areaCodes": []
   },
   {
     "cca2": "MO",
@@ -1427,7 +1781,9 @@
     },
     "region": "Asia",
     "subregion": "Eastern Asia",
-    "flag": "🇲🇴"
+    "flag": "🇲🇴",
+    "callingCode": "+853",
+    "areaCodes": []
   },
   {
     "cca2": "MG",
@@ -1438,7 +1794,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇲🇬"
+    "flag": "🇲🇬",
+    "callingCode": "+261",
+    "areaCodes": []
   },
   {
     "cca2": "MW",
@@ -1449,7 +1807,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇲🇼"
+    "flag": "🇲🇼",
+    "callingCode": "+265",
+    "areaCodes": []
   },
   {
     "cca2": "MY",
@@ -1460,7 +1820,9 @@
     },
     "region": "Asia",
     "subregion": "South-Eastern Asia",
-    "flag": "🇲🇾"
+    "flag": "🇲🇾",
+    "callingCode": "+60",
+    "areaCodes": []
   },
   {
     "cca2": "MV",
@@ -1471,7 +1833,9 @@
     },
     "region": "Asia",
     "subregion": "Southern Asia",
-    "flag": "🇲🇻"
+    "flag": "🇲🇻",
+    "callingCode": "+960",
+    "areaCodes": []
   },
   {
     "cca2": "ML",
@@ -1482,7 +1846,9 @@
     },
     "region": "Africa",
     "subregion": "Western Africa",
-    "flag": "🇲🇱"
+    "flag": "🇲🇱",
+    "callingCode": "+223",
+    "areaCodes": []
   },
   {
     "cca2": "MT",
@@ -1493,7 +1859,9 @@
     },
     "region": "Europe",
     "subregion": "Southern Europe",
-    "flag": "🇲🇹"
+    "flag": "🇲🇹",
+    "callingCode": "+356",
+    "areaCodes": []
   },
   {
     "cca2": "MH",
@@ -1504,7 +1872,9 @@
     },
     "region": "Oceania",
     "subregion": "Micronesia",
-    "flag": "🇲🇭"
+    "flag": "🇲🇭",
+    "callingCode": "+692",
+    "areaCodes": []
   },
   {
     "cca2": "MQ",
@@ -1515,7 +1885,9 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇲🇶"
+    "flag": "🇲🇶",
+    "callingCode": "+596",
+    "areaCodes": []
   },
   {
     "cca2": "MR",
@@ -1526,7 +1898,9 @@
     },
     "region": "Africa",
     "subregion": "Western Africa",
-    "flag": "🇲🇷"
+    "flag": "🇲🇷",
+    "callingCode": "+222",
+    "areaCodes": []
   },
   {
     "cca2": "MU",
@@ -1537,7 +1911,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇲🇺"
+    "flag": "🇲🇺",
+    "callingCode": "+230",
+    "areaCodes": []
   },
   {
     "cca2": "YT",
@@ -1548,7 +1924,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇾🇹"
+    "flag": "🇾🇹",
+    "callingCode": "+262",
+    "areaCodes": []
   },
   {
     "cca2": "MX",
@@ -1559,7 +1937,9 @@
     },
     "region": "Americas",
     "subregion": "North America",
-    "flag": "🇲🇽"
+    "flag": "🇲🇽",
+    "callingCode": "+52",
+    "areaCodes": []
   },
   {
     "cca2": "FM",
@@ -1570,7 +1950,9 @@
     },
     "region": "Oceania",
     "subregion": "Micronesia",
-    "flag": "🇫🇲"
+    "flag": "🇫🇲",
+    "callingCode": "+691",
+    "areaCodes": []
   },
   {
     "cca2": "MD",
@@ -1581,7 +1963,9 @@
     },
     "region": "Europe",
     "subregion": "Eastern Europe",
-    "flag": "🇲🇩"
+    "flag": "🇲🇩",
+    "callingCode": "+373",
+    "areaCodes": []
   },
   {
     "cca2": "MC",
@@ -1592,7 +1976,9 @@
     },
     "region": "Europe",
     "subregion": "Western Europe",
-    "flag": "🇲🇨"
+    "flag": "🇲🇨",
+    "callingCode": "+377",
+    "areaCodes": []
   },
   {
     "cca2": "MN",
@@ -1603,7 +1989,9 @@
     },
     "region": "Asia",
     "subregion": "Eastern Asia",
-    "flag": "🇲🇳"
+    "flag": "🇲🇳",
+    "callingCode": "+976",
+    "areaCodes": []
   },
   {
     "cca2": "ME",
@@ -1614,7 +2002,9 @@
     },
     "region": "Europe",
     "subregion": "Southeast Europe",
-    "flag": "🇲🇪"
+    "flag": "🇲🇪",
+    "callingCode": "+382",
+    "areaCodes": []
   },
   {
     "cca2": "MS",
@@ -1625,7 +2015,11 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇲🇸"
+    "flag": "🇲🇸",
+    "callingCode": "+1",
+    "areaCodes": [
+      "664"
+    ]
   },
   {
     "cca2": "MA",
@@ -1636,7 +2030,9 @@
     },
     "region": "Africa",
     "subregion": "Northern Africa",
-    "flag": "🇲🇦"
+    "flag": "🇲🇦",
+    "callingCode": "+212",
+    "areaCodes": []
   },
   {
     "cca2": "MZ",
@@ -1647,7 +2043,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇲🇿"
+    "flag": "🇲🇿",
+    "callingCode": "+258",
+    "areaCodes": []
   },
   {
     "cca2": "MM",
@@ -1658,7 +2056,9 @@
     },
     "region": "Asia",
     "subregion": "South-Eastern Asia",
-    "flag": "🇲🇲"
+    "flag": "🇲🇲",
+    "callingCode": "+95",
+    "areaCodes": []
   },
   {
     "cca2": "NA",
@@ -1669,7 +2069,9 @@
     },
     "region": "Africa",
     "subregion": "Southern Africa",
-    "flag": "🇳🇦"
+    "flag": "🇳🇦",
+    "callingCode": "+264",
+    "areaCodes": []
   },
   {
     "cca2": "NR",
@@ -1680,7 +2082,9 @@
     },
     "region": "Oceania",
     "subregion": "Micronesia",
-    "flag": "🇳🇷"
+    "flag": "🇳🇷",
+    "callingCode": "+674",
+    "areaCodes": []
   },
   {
     "cca2": "NP",
@@ -1691,7 +2095,9 @@
     },
     "region": "Asia",
     "subregion": "Southern Asia",
-    "flag": "🇳🇵"
+    "flag": "🇳🇵",
+    "callingCode": "+977",
+    "areaCodes": []
   },
   {
     "cca2": "NL",
@@ -1702,7 +2108,9 @@
     },
     "region": "Europe",
     "subregion": "Western Europe",
-    "flag": "🇳🇱"
+    "flag": "🇳🇱",
+    "callingCode": "+31",
+    "areaCodes": []
   },
   {
     "cca2": "NC",
@@ -1713,7 +2121,9 @@
     },
     "region": "Oceania",
     "subregion": "Melanesia",
-    "flag": "🇳🇨"
+    "flag": "🇳🇨",
+    "callingCode": "+687",
+    "areaCodes": []
   },
   {
     "cca2": "NZ",
@@ -1724,7 +2134,9 @@
     },
     "region": "Oceania",
     "subregion": "Australia and New Zealand",
-    "flag": "🇳🇿"
+    "flag": "🇳🇿",
+    "callingCode": "+64",
+    "areaCodes": []
   },
   {
     "cca2": "NI",
@@ -1735,7 +2147,9 @@
     },
     "region": "Americas",
     "subregion": "Central America",
-    "flag": "🇳🇮"
+    "flag": "🇳🇮",
+    "callingCode": "+505",
+    "areaCodes": []
   },
   {
     "cca2": "NE",
@@ -1746,7 +2160,9 @@
     },
     "region": "Africa",
     "subregion": "Western Africa",
-    "flag": "🇳🇪"
+    "flag": "🇳🇪",
+    "callingCode": "+227",
+    "areaCodes": []
   },
   {
     "cca2": "NG",
@@ -1757,7 +2173,9 @@
     },
     "region": "Africa",
     "subregion": "Western Africa",
-    "flag": "🇳🇬"
+    "flag": "🇳🇬",
+    "callingCode": "+234",
+    "areaCodes": []
   },
   {
     "cca2": "NU",
@@ -1768,7 +2186,9 @@
     },
     "region": "Oceania",
     "subregion": "Polynesia",
-    "flag": "🇳🇺"
+    "flag": "🇳🇺",
+    "callingCode": "+683",
+    "areaCodes": []
   },
   {
     "cca2": "NF",
@@ -1779,7 +2199,9 @@
     },
     "region": "Oceania",
     "subregion": "Australia and New Zealand",
-    "flag": "🇳🇫"
+    "flag": "🇳🇫",
+    "callingCode": "+672",
+    "areaCodes": []
   },
   {
     "cca2": "KP",
@@ -1790,7 +2212,9 @@
     },
     "region": "Asia",
     "subregion": "Eastern Asia",
-    "flag": "🇰🇵"
+    "flag": "🇰🇵",
+    "callingCode": "+850",
+    "areaCodes": []
   },
   {
     "cca2": "MK",
@@ -1801,7 +2225,9 @@
     },
     "region": "Europe",
     "subregion": "Southeast Europe",
-    "flag": "🇲🇰"
+    "flag": "🇲🇰",
+    "callingCode": "+389",
+    "areaCodes": []
   },
   {
     "cca2": "MP",
@@ -1812,7 +2238,11 @@
     },
     "region": "Oceania",
     "subregion": "Micronesia",
-    "flag": "🇲🇵"
+    "flag": "🇲🇵",
+    "callingCode": "+1",
+    "areaCodes": [
+      "670"
+    ]
   },
   {
     "cca2": "NO",
@@ -1823,7 +2253,9 @@
     },
     "region": "Europe",
     "subregion": "Northern Europe",
-    "flag": "🇳🇴"
+    "flag": "🇳🇴",
+    "callingCode": "+47",
+    "areaCodes": []
   },
   {
     "cca2": "OM",
@@ -1834,7 +2266,9 @@
     },
     "region": "Asia",
     "subregion": "Western Asia",
-    "flag": "🇴🇲"
+    "flag": "🇴🇲",
+    "callingCode": "+968",
+    "areaCodes": []
   },
   {
     "cca2": "PK",
@@ -1845,7 +2279,9 @@
     },
     "region": "Asia",
     "subregion": "Southern Asia",
-    "flag": "🇵🇰"
+    "flag": "🇵🇰",
+    "callingCode": "+92",
+    "areaCodes": []
   },
   {
     "cca2": "PW",
@@ -1856,7 +2292,9 @@
     },
     "region": "Oceania",
     "subregion": "Micronesia",
-    "flag": "🇵🇼"
+    "flag": "🇵🇼",
+    "callingCode": "+680",
+    "areaCodes": []
   },
   {
     "cca2": "PS",
@@ -1867,7 +2305,9 @@
     },
     "region": "Asia",
     "subregion": "Western Asia",
-    "flag": "🇵🇸"
+    "flag": "🇵🇸",
+    "callingCode": "+970",
+    "areaCodes": []
   },
   {
     "cca2": "PA",
@@ -1878,7 +2318,9 @@
     },
     "region": "Americas",
     "subregion": "Central America",
-    "flag": "🇵🇦"
+    "flag": "🇵🇦",
+    "callingCode": "+507",
+    "areaCodes": []
   },
   {
     "cca2": "PG",
@@ -1889,7 +2331,9 @@
     },
     "region": "Oceania",
     "subregion": "Melanesia",
-    "flag": "🇵🇬"
+    "flag": "🇵🇬",
+    "callingCode": "+675",
+    "areaCodes": []
   },
   {
     "cca2": "PY",
@@ -1900,7 +2344,9 @@
     },
     "region": "Americas",
     "subregion": "South America",
-    "flag": "🇵🇾"
+    "flag": "🇵🇾",
+    "callingCode": "+595",
+    "areaCodes": []
   },
   {
     "cca2": "PE",
@@ -1911,7 +2357,9 @@
     },
     "region": "Americas",
     "subregion": "South America",
-    "flag": "🇵🇪"
+    "flag": "🇵🇪",
+    "callingCode": "+51",
+    "areaCodes": []
   },
   {
     "cca2": "PH",
@@ -1922,7 +2370,9 @@
     },
     "region": "Asia",
     "subregion": "South-Eastern Asia",
-    "flag": "🇵🇭"
+    "flag": "🇵🇭",
+    "callingCode": "+63",
+    "areaCodes": []
   },
   {
     "cca2": "PN",
@@ -1933,7 +2383,9 @@
     },
     "region": "Oceania",
     "subregion": "Polynesia",
-    "flag": "🇵🇳"
+    "flag": "🇵🇳",
+    "callingCode": "+64",
+    "areaCodes": []
   },
   {
     "cca2": "PL",
@@ -1944,7 +2396,9 @@
     },
     "region": "Europe",
     "subregion": "Central Europe",
-    "flag": "🇵🇱"
+    "flag": "🇵🇱",
+    "callingCode": "+48",
+    "areaCodes": []
   },
   {
     "cca2": "PT",
@@ -1955,7 +2409,9 @@
     },
     "region": "Europe",
     "subregion": "Southern Europe",
-    "flag": "🇵🇹"
+    "flag": "🇵🇹",
+    "callingCode": "+351",
+    "areaCodes": []
   },
   {
     "cca2": "PR",
@@ -1966,7 +2422,12 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇵🇷"
+    "flag": "🇵🇷",
+    "callingCode": "+1",
+    "areaCodes": [
+      "787",
+      "939"
+    ]
   },
   {
     "cca2": "QA",
@@ -1977,7 +2438,9 @@
     },
     "region": "Asia",
     "subregion": "Western Asia",
-    "flag": "🇶🇦"
+    "flag": "🇶🇦",
+    "callingCode": "+974",
+    "areaCodes": []
   },
   {
     "cca2": "CG",
@@ -1988,7 +2451,9 @@
     },
     "region": "Africa",
     "subregion": "Middle Africa",
-    "flag": "🇨🇬"
+    "flag": "🇨🇬",
+    "callingCode": "+242",
+    "areaCodes": []
   },
   {
     "cca2": "RE",
@@ -1999,7 +2464,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇷🇪"
+    "flag": "🇷🇪",
+    "callingCode": "+262",
+    "areaCodes": []
   },
   {
     "cca2": "RO",
@@ -2010,7 +2477,9 @@
     },
     "region": "Europe",
     "subregion": "Southeast Europe",
-    "flag": "🇷🇴"
+    "flag": "🇷🇴",
+    "callingCode": "+40",
+    "areaCodes": []
   },
   {
     "cca2": "RU",
@@ -2021,7 +2490,15 @@
     },
     "region": "Europe",
     "subregion": "Eastern Europe",
-    "flag": "🇷🇺"
+    "flag": "🇷🇺",
+    "callingCode": "+7",
+    "areaCodes": [
+      "3",
+      "4",
+      "5",
+      "8",
+      "9"
+    ]
   },
   {
     "cca2": "RW",
@@ -2032,7 +2509,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇷🇼"
+    "flag": "🇷🇼",
+    "callingCode": "+250",
+    "areaCodes": []
   },
   {
     "cca2": "BL",
@@ -2043,7 +2522,9 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇧🇱"
+    "flag": "🇧🇱",
+    "callingCode": "+590",
+    "areaCodes": []
   },
   {
     "cca2": "SH",
@@ -2054,7 +2535,9 @@
     },
     "region": "Africa",
     "subregion": "Western Africa",
-    "flag": "🇸🇭"
+    "flag": "🇸🇭",
+    "callingCode": "+290",
+    "areaCodes": []
   },
   {
     "cca2": "KN",
@@ -2065,7 +2548,11 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇰🇳"
+    "flag": "🇰🇳",
+    "callingCode": "+1",
+    "areaCodes": [
+      "869"
+    ]
   },
   {
     "cca2": "LC",
@@ -2076,7 +2563,11 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇱🇨"
+    "flag": "🇱🇨",
+    "callingCode": "+1",
+    "areaCodes": [
+      "758"
+    ]
   },
   {
     "cca2": "MF",
@@ -2087,7 +2578,9 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇲🇫"
+    "flag": "🇲🇫",
+    "callingCode": "+590",
+    "areaCodes": []
   },
   {
     "cca2": "PM",
@@ -2098,7 +2591,9 @@
     },
     "region": "Americas",
     "subregion": "North America",
-    "flag": "🇵🇲"
+    "flag": "🇵🇲",
+    "callingCode": "+508",
+    "areaCodes": []
   },
   {
     "cca2": "VC",
@@ -2109,7 +2604,11 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇻🇨"
+    "flag": "🇻🇨",
+    "callingCode": "+1",
+    "areaCodes": [
+      "784"
+    ]
   },
   {
     "cca2": "WS",
@@ -2120,7 +2619,9 @@
     },
     "region": "Oceania",
     "subregion": "Polynesia",
-    "flag": "🇼🇸"
+    "flag": "🇼🇸",
+    "callingCode": "+685",
+    "areaCodes": []
   },
   {
     "cca2": "SM",
@@ -2131,7 +2632,9 @@
     },
     "region": "Europe",
     "subregion": "Southern Europe",
-    "flag": "🇸🇲"
+    "flag": "🇸🇲",
+    "callingCode": "+378",
+    "areaCodes": []
   },
   {
     "cca2": "ST",
@@ -2142,7 +2645,9 @@
     },
     "region": "Africa",
     "subregion": "Middle Africa",
-    "flag": "🇸🇹"
+    "flag": "🇸🇹",
+    "callingCode": "+239",
+    "areaCodes": []
   },
   {
     "cca2": "SA",
@@ -2153,7 +2658,9 @@
     },
     "region": "Asia",
     "subregion": "Western Asia",
-    "flag": "🇸🇦"
+    "flag": "🇸🇦",
+    "callingCode": "+966",
+    "areaCodes": []
   },
   {
     "cca2": "SN",
@@ -2164,7 +2671,9 @@
     },
     "region": "Africa",
     "subregion": "Western Africa",
-    "flag": "🇸🇳"
+    "flag": "🇸🇳",
+    "callingCode": "+221",
+    "areaCodes": []
   },
   {
     "cca2": "RS",
@@ -2175,7 +2684,9 @@
     },
     "region": "Europe",
     "subregion": "Southeast Europe",
-    "flag": "🇷🇸"
+    "flag": "🇷🇸",
+    "callingCode": "+381",
+    "areaCodes": []
   },
   {
     "cca2": "SC",
@@ -2186,7 +2697,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇸🇨"
+    "flag": "🇸🇨",
+    "callingCode": "+248",
+    "areaCodes": []
   },
   {
     "cca2": "SL",
@@ -2197,7 +2710,9 @@
     },
     "region": "Africa",
     "subregion": "Western Africa",
-    "flag": "🇸🇱"
+    "flag": "🇸🇱",
+    "callingCode": "+232",
+    "areaCodes": []
   },
   {
     "cca2": "SG",
@@ -2208,7 +2723,9 @@
     },
     "region": "Asia",
     "subregion": "South-Eastern Asia",
-    "flag": "🇸🇬"
+    "flag": "🇸🇬",
+    "callingCode": "+65",
+    "areaCodes": []
   },
   {
     "cca2": "SX",
@@ -2219,7 +2736,11 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇸🇽"
+    "flag": "🇸🇽",
+    "callingCode": "+1",
+    "areaCodes": [
+      "721"
+    ]
   },
   {
     "cca2": "SK",
@@ -2230,7 +2751,9 @@
     },
     "region": "Europe",
     "subregion": "Central Europe",
-    "flag": "🇸🇰"
+    "flag": "🇸🇰",
+    "callingCode": "+421",
+    "areaCodes": []
   },
   {
     "cca2": "SI",
@@ -2241,7 +2764,9 @@
     },
     "region": "Europe",
     "subregion": "Central Europe",
-    "flag": "🇸🇮"
+    "flag": "🇸🇮",
+    "callingCode": "+386",
+    "areaCodes": []
   },
   {
     "cca2": "SB",
@@ -2252,7 +2777,9 @@
     },
     "region": "Oceania",
     "subregion": "Melanesia",
-    "flag": "🇸🇧"
+    "flag": "🇸🇧",
+    "callingCode": "+677",
+    "areaCodes": []
   },
   {
     "cca2": "SO",
@@ -2263,7 +2790,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇸🇴"
+    "flag": "🇸🇴",
+    "callingCode": "+252",
+    "areaCodes": []
   },
   {
     "cca2": "ZA",
@@ -2274,7 +2803,9 @@
     },
     "region": "Africa",
     "subregion": "Southern Africa",
-    "flag": "🇿🇦"
+    "flag": "🇿🇦",
+    "callingCode": "+27",
+    "areaCodes": []
   },
   {
     "cca2": "GS",
@@ -2285,7 +2816,9 @@
     },
     "region": "Antarctic",
     "subregion": "",
-    "flag": "🇬🇸"
+    "flag": "🇬🇸",
+    "callingCode": "+500",
+    "areaCodes": []
   },
   {
     "cca2": "KR",
@@ -2296,7 +2829,9 @@
     },
     "region": "Asia",
     "subregion": "Eastern Asia",
-    "flag": "🇰🇷"
+    "flag": "🇰🇷",
+    "callingCode": "+82",
+    "areaCodes": []
   },
   {
     "cca2": "SS",
@@ -2307,7 +2842,9 @@
     },
     "region": "Africa",
     "subregion": "Middle Africa",
-    "flag": "🇸🇸"
+    "flag": "🇸🇸",
+    "callingCode": "+211",
+    "areaCodes": []
   },
   {
     "cca2": "ES",
@@ -2318,7 +2855,9 @@
     },
     "region": "Europe",
     "subregion": "Southern Europe",
-    "flag": "🇪🇸"
+    "flag": "🇪🇸",
+    "callingCode": "+34",
+    "areaCodes": []
   },
   {
     "cca2": "LK",
@@ -2329,7 +2868,9 @@
     },
     "region": "Asia",
     "subregion": "Southern Asia",
-    "flag": "🇱🇰"
+    "flag": "🇱🇰",
+    "callingCode": "+94",
+    "areaCodes": []
   },
   {
     "cca2": "SD",
@@ -2340,7 +2881,9 @@
     },
     "region": "Africa",
     "subregion": "Northern Africa",
-    "flag": "🇸🇩"
+    "flag": "🇸🇩",
+    "callingCode": "+249",
+    "areaCodes": []
   },
   {
     "cca2": "SR",
@@ -2351,7 +2894,9 @@
     },
     "region": "Americas",
     "subregion": "South America",
-    "flag": "🇸🇷"
+    "flag": "🇸🇷",
+    "callingCode": "+597",
+    "areaCodes": []
   },
   {
     "cca2": "SJ",
@@ -2362,7 +2907,11 @@
     },
     "region": "Europe",
     "subregion": "Northern Europe",
-    "flag": "🇸🇯"
+    "flag": "🇸🇯",
+    "callingCode": "+47",
+    "areaCodes": [
+      "79"
+    ]
   },
   {
     "cca2": "SE",
@@ -2373,7 +2922,9 @@
     },
     "region": "Europe",
     "subregion": "Northern Europe",
-    "flag": "🇸🇪"
+    "flag": "🇸🇪",
+    "callingCode": "+46",
+    "areaCodes": []
   },
   {
     "cca2": "CH",
@@ -2384,7 +2935,9 @@
     },
     "region": "Europe",
     "subregion": "Western Europe",
-    "flag": "🇨🇭"
+    "flag": "🇨🇭",
+    "callingCode": "+41",
+    "areaCodes": []
   },
   {
     "cca2": "SY",
@@ -2395,7 +2948,9 @@
     },
     "region": "Asia",
     "subregion": "Western Asia",
-    "flag": "🇸🇾"
+    "flag": "🇸🇾",
+    "callingCode": "+963",
+    "areaCodes": []
   },
   {
     "cca2": "TW",
@@ -2406,7 +2961,9 @@
     },
     "region": "Asia",
     "subregion": "Eastern Asia",
-    "flag": "🇹🇼"
+    "flag": "🇹🇼",
+    "callingCode": "+886",
+    "areaCodes": []
   },
   {
     "cca2": "TJ",
@@ -2417,7 +2974,9 @@
     },
     "region": "Asia",
     "subregion": "Central Asia",
-    "flag": "🇹🇯"
+    "flag": "🇹🇯",
+    "callingCode": "+992",
+    "areaCodes": []
   },
   {
     "cca2": "TZ",
@@ -2428,7 +2987,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇹🇿"
+    "flag": "🇹🇿",
+    "callingCode": "+255",
+    "areaCodes": []
   },
   {
     "cca2": "TH",
@@ -2439,7 +3000,9 @@
     },
     "region": "Asia",
     "subregion": "South-Eastern Asia",
-    "flag": "🇹🇭"
+    "flag": "🇹🇭",
+    "callingCode": "+66",
+    "areaCodes": []
   },
   {
     "cca2": "TL",
@@ -2450,7 +3013,9 @@
     },
     "region": "Asia",
     "subregion": "South-Eastern Asia",
-    "flag": "🇹🇱"
+    "flag": "🇹🇱",
+    "callingCode": "+670",
+    "areaCodes": []
   },
   {
     "cca2": "TG",
@@ -2461,7 +3026,9 @@
     },
     "region": "Africa",
     "subregion": "Western Africa",
-    "flag": "🇹🇬"
+    "flag": "🇹🇬",
+    "callingCode": "+228",
+    "areaCodes": []
   },
   {
     "cca2": "TK",
@@ -2472,7 +3039,9 @@
     },
     "region": "Oceania",
     "subregion": "Polynesia",
-    "flag": "🇹🇰"
+    "flag": "🇹🇰",
+    "callingCode": "+690",
+    "areaCodes": []
   },
   {
     "cca2": "TO",
@@ -2483,7 +3052,9 @@
     },
     "region": "Oceania",
     "subregion": "Polynesia",
-    "flag": "🇹🇴"
+    "flag": "🇹🇴",
+    "callingCode": "+676",
+    "areaCodes": []
   },
   {
     "cca2": "TT",
@@ -2494,7 +3065,11 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇹🇹"
+    "flag": "🇹🇹",
+    "callingCode": "+1",
+    "areaCodes": [
+      "868"
+    ]
   },
   {
     "cca2": "TN",
@@ -2505,7 +3080,9 @@
     },
     "region": "Africa",
     "subregion": "Northern Africa",
-    "flag": "🇹🇳"
+    "flag": "🇹🇳",
+    "callingCode": "+216",
+    "areaCodes": []
   },
   {
     "cca2": "TR",
@@ -2516,7 +3093,9 @@
     },
     "region": "Asia",
     "subregion": "Western Asia",
-    "flag": "🇹🇷"
+    "flag": "🇹🇷",
+    "callingCode": "+90",
+    "areaCodes": []
   },
   {
     "cca2": "TM",
@@ -2527,7 +3106,9 @@
     },
     "region": "Asia",
     "subregion": "Central Asia",
-    "flag": "🇹🇲"
+    "flag": "🇹🇲",
+    "callingCode": "+993",
+    "areaCodes": []
   },
   {
     "cca2": "TC",
@@ -2538,7 +3119,11 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇹🇨"
+    "flag": "🇹🇨",
+    "callingCode": "+1",
+    "areaCodes": [
+      "649"
+    ]
   },
   {
     "cca2": "TV",
@@ -2549,7 +3134,9 @@
     },
     "region": "Oceania",
     "subregion": "Polynesia",
-    "flag": "🇹🇻"
+    "flag": "🇹🇻",
+    "callingCode": "+688",
+    "areaCodes": []
   },
   {
     "cca2": "UG",
@@ -2560,7 +3147,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇺🇬"
+    "flag": "🇺🇬",
+    "callingCode": "+256",
+    "areaCodes": []
   },
   {
     "cca2": "UA",
@@ -2571,7 +3160,9 @@
     },
     "region": "Europe",
     "subregion": "Eastern Europe",
-    "flag": "🇺🇦"
+    "flag": "🇺🇦",
+    "callingCode": "+380",
+    "areaCodes": []
   },
   {
     "cca2": "AE",
@@ -2582,7 +3173,9 @@
     },
     "region": "Asia",
     "subregion": "Western Asia",
-    "flag": "🇦🇪"
+    "flag": "🇦🇪",
+    "callingCode": "+971",
+    "areaCodes": []
   },
   {
     "cca2": "GB",
@@ -2593,7 +3186,9 @@
     },
     "region": "Europe",
     "subregion": "Northern Europe",
-    "flag": "🇬🇧"
+    "flag": "🇬🇧",
+    "callingCode": "+44",
+    "areaCodes": []
   },
   {
     "cca2": "US",
@@ -2604,7 +3199,390 @@
     },
     "region": "Americas",
     "subregion": "North America",
-    "flag": "🇺🇸"
+    "flag": "🇺🇸",
+    "callingCode": "+1",
+    "areaCodes": [
+      "201",
+      "202",
+      "203",
+      "205",
+      "206",
+      "207",
+      "208",
+      "209",
+      "210",
+      "212",
+      "213",
+      "214",
+      "215",
+      "216",
+      "217",
+      "218",
+      "219",
+      "220",
+      "223",
+      "224",
+      "225",
+      "227",
+      "228",
+      "229",
+      "231",
+      "234",
+      "239",
+      "240",
+      "248",
+      "251",
+      "252",
+      "253",
+      "254",
+      "256",
+      "260",
+      "262",
+      "267",
+      "269",
+      "270",
+      "272",
+      "274",
+      "276",
+      "279",
+      "281",
+      "283",
+      "301",
+      "302",
+      "303",
+      "304",
+      "305",
+      "307",
+      "308",
+      "309",
+      "310",
+      "312",
+      "313",
+      "314",
+      "315",
+      "316",
+      "317",
+      "318",
+      "319",
+      "320",
+      "321",
+      "323",
+      "325",
+      "326",
+      "327",
+      "330",
+      "331",
+      "332",
+      "334",
+      "336",
+      "337",
+      "339",
+      "341",
+      "346",
+      "347",
+      "351",
+      "352",
+      "360",
+      "361",
+      "364",
+      "380",
+      "385",
+      "386",
+      "401",
+      "402",
+      "404",
+      "405",
+      "406",
+      "407",
+      "408",
+      "409",
+      "410",
+      "412",
+      "413",
+      "414",
+      "415",
+      "417",
+      "419",
+      "423",
+      "424",
+      "425",
+      "430",
+      "432",
+      "434",
+      "435",
+      "440",
+      "442",
+      "443",
+      "445",
+      "447",
+      "448",
+      "458",
+      "463",
+      "464",
+      "469",
+      "470",
+      "475",
+      "478",
+      "479",
+      "480",
+      "484",
+      "500",
+      "501",
+      "502",
+      "503",
+      "504",
+      "505",
+      "507",
+      "508",
+      "509",
+      "510",
+      "512",
+      "513",
+      "515",
+      "516",
+      "517",
+      "518",
+      "520",
+      "521",
+      "522",
+      "523",
+      "524",
+      "525",
+      "526",
+      "527",
+      "528",
+      "529",
+      "530",
+      "531",
+      "532",
+      "533",
+      "534",
+      "535",
+      "538",
+      "539",
+      "540",
+      "541",
+      "542",
+      "543",
+      "544",
+      "545",
+      "546",
+      "547",
+      "549",
+      "550",
+      "551",
+      "552",
+      "553",
+      "554",
+      "556",
+      "557",
+      "558",
+      "559",
+      "561",
+      "562",
+      "563",
+      "564",
+      "566",
+      "567",
+      "569",
+      "570",
+      "571",
+      "572",
+      "573",
+      "574",
+      "575",
+      "577",
+      "578",
+      "580",
+      "582",
+      "585",
+      "586",
+      "588",
+      "589",
+      "601",
+      "602",
+      "603",
+      "605",
+      "606",
+      "607",
+      "608",
+      "609",
+      "610",
+      "612",
+      "614",
+      "615",
+      "616",
+      "617",
+      "618",
+      "619",
+      "620",
+      "623",
+      "626",
+      "628",
+      "629",
+      "630",
+      "631",
+      "636",
+      "640",
+      "641",
+      "646",
+      "650",
+      "651",
+      "656",
+      "657",
+      "659",
+      "660",
+      "661",
+      "662",
+      "667",
+      "669",
+      "678",
+      "679",
+      "680",
+      "681",
+      "682",
+      "689",
+      "700",
+      "701",
+      "702",
+      "703",
+      "704",
+      "706",
+      "707",
+      "708",
+      "710",
+      "712",
+      "713",
+      "714",
+      "715",
+      "716",
+      "717",
+      "718",
+      "719",
+      "720",
+      "724",
+      "725",
+      "726",
+      "727",
+      "730",
+      "731",
+      "732",
+      "734",
+      "737",
+      "740",
+      "743",
+      "747",
+      "754",
+      "757",
+      "760",
+      "762",
+      "763",
+      "765",
+      "769",
+      "770",
+      "771",
+      "772",
+      "773",
+      "774",
+      "775",
+      "779",
+      "781",
+      "785",
+      "786",
+      "801",
+      "802",
+      "803",
+      "804",
+      "805",
+      "806",
+      "808",
+      "810",
+      "812",
+      "813",
+      "814",
+      "815",
+      "816",
+      "817",
+      "818",
+      "820",
+      "826",
+      "828",
+      "830",
+      "831",
+      "832",
+      "838",
+      "839",
+      "840",
+      "843",
+      "845",
+      "847",
+      "848",
+      "850",
+      "854",
+      "856",
+      "857",
+      "858",
+      "859",
+      "860",
+      "862",
+      "863",
+      "864",
+      "865",
+      "870",
+      "872",
+      "878",
+      "901",
+      "903",
+      "904",
+      "906",
+      "907",
+      "908",
+      "909",
+      "910",
+      "912",
+      "913",
+      "914",
+      "915",
+      "916",
+      "917",
+      "918",
+      "919",
+      "920",
+      "925",
+      "928",
+      "929",
+      "930",
+      "931",
+      "934",
+      "936",
+      "937",
+      "938",
+      "940",
+      "941",
+      "943",
+      "945",
+      "947",
+      "948",
+      "949",
+      "951",
+      "952",
+      "954",
+      "956",
+      "959",
+      "970",
+      "971",
+      "972",
+      "973",
+      "975",
+      "978",
+      "979",
+      "980",
+      "983",
+      "984",
+      "985",
+      "986",
+      "989"
+    ]
   },
   {
     "cca2": "UM",
@@ -2615,7 +3593,9 @@
     },
     "region": "Americas",
     "subregion": "North America",
-    "flag": "🇺🇲"
+    "flag": "🇺🇲",
+    "callingCode": "+268",
+    "areaCodes": []
   },
   {
     "cca2": "VI",
@@ -2626,7 +3606,11 @@
     },
     "region": "Americas",
     "subregion": "Caribbean",
-    "flag": "🇻🇮"
+    "flag": "🇻🇮",
+    "callingCode": "+1",
+    "areaCodes": [
+      "340"
+    ]
   },
   {
     "cca2": "UY",
@@ -2637,7 +3621,9 @@
     },
     "region": "Americas",
     "subregion": "South America",
-    "flag": "🇺🇾"
+    "flag": "🇺🇾",
+    "callingCode": "+598",
+    "areaCodes": []
   },
   {
     "cca2": "UZ",
@@ -2648,7 +3634,9 @@
     },
     "region": "Asia",
     "subregion": "Central Asia",
-    "flag": "🇺🇿"
+    "flag": "🇺🇿",
+    "callingCode": "+998",
+    "areaCodes": []
   },
   {
     "cca2": "VU",
@@ -2659,7 +3647,9 @@
     },
     "region": "Oceania",
     "subregion": "Melanesia",
-    "flag": "🇻🇺"
+    "flag": "🇻🇺",
+    "callingCode": "+678",
+    "areaCodes": []
   },
   {
     "cca2": "VA",
@@ -2670,7 +3660,11 @@
     },
     "region": "Europe",
     "subregion": "Southern Europe",
-    "flag": "🇻🇦"
+    "flag": "🇻🇦",
+    "callingCode": "+39",
+    "areaCodes": [
+      "06698"
+    ]
   },
   {
     "cca2": "VE",
@@ -2681,7 +3675,9 @@
     },
     "region": "Americas",
     "subregion": "South America",
-    "flag": "🇻🇪"
+    "flag": "🇻🇪",
+    "callingCode": "+58",
+    "areaCodes": []
   },
   {
     "cca2": "VN",
@@ -2692,7 +3688,9 @@
     },
     "region": "Asia",
     "subregion": "South-Eastern Asia",
-    "flag": "🇻🇳"
+    "flag": "🇻🇳",
+    "callingCode": "+84",
+    "areaCodes": []
   },
   {
     "cca2": "WF",
@@ -2703,7 +3701,9 @@
     },
     "region": "Oceania",
     "subregion": "Polynesia",
-    "flag": "🇼🇫"
+    "flag": "🇼🇫",
+    "callingCode": "+681",
+    "areaCodes": []
   },
   {
     "cca2": "EH",
@@ -2714,7 +3714,12 @@
     },
     "region": "Africa",
     "subregion": "Northern Africa",
-    "flag": "🇪🇭"
+    "flag": "🇪🇭",
+    "callingCode": "+212",
+    "areaCodes": [
+      "5288",
+      "5289"
+    ]
   },
   {
     "cca2": "YE",
@@ -2725,7 +3730,9 @@
     },
     "region": "Asia",
     "subregion": "Western Asia",
-    "flag": "🇾🇪"
+    "flag": "🇾🇪",
+    "callingCode": "+967",
+    "areaCodes": []
   },
   {
     "cca2": "ZM",
@@ -2736,7 +3743,9 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇿🇲"
+    "flag": "🇿🇲",
+    "callingCode": "+260",
+    "areaCodes": []
   },
   {
     "cca2": "ZW",
@@ -2747,6 +3756,8 @@
     },
     "region": "Africa",
     "subregion": "Eastern Africa",
-    "flag": "🇿🇼"
+    "flag": "🇿🇼",
+    "callingCode": "+263",
+    "areaCodes": []
   }
 ]
