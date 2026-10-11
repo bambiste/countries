@@ -12,6 +12,7 @@ import { isPlausiblePhone, parsePhone } from '../phone.js';
 import { codesOf, labelsFor, localeRegion, pageLocale, type CountryLabels } from './labels.js';
 import { CountryPicker, el } from './picker.js';
 import { reflect } from './reflect.js';
+import { ElementBase } from './base.js';
 import { installStyles } from './styles.js';
 
 export interface PhoneChange {
@@ -23,7 +24,7 @@ export interface PhoneChange {
   valid: boolean;
 }
 
-export class BcPhoneInput extends HTMLElement {
+export class BcPhoneInput extends ElementBase {
   static formAssociated = true;
   static observedAttributes = ['value', 'country', 'locale', 'placeholder', 'disabled', 'required'];
 

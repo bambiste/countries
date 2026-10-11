@@ -8,6 +8,7 @@ import { getCountry, type Country } from '../data.js';
 import { codesOf, labelsFor, pageLocale, type CountryLabels } from './labels.js';
 import { CountryPicker, countryParts, el } from './picker.js';
 import { reflect } from './reflect.js';
+import { ElementBase } from './base.js';
 import { installStyles } from './styles.js';
 
 export interface CountryChange {
@@ -15,7 +16,7 @@ export interface CountryChange {
   country: Country | undefined;
 }
 
-export class BcCountrySelect extends HTMLElement {
+export class BcCountrySelect extends ElementBase {
   static formAssociated = true;
   static observedAttributes = ['value', 'locale', 'only', 'preferred', 'placeholder', 'disabled', 'required', 'show-calling-code'];
 
