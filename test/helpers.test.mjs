@@ -64,3 +64,9 @@ test('names follow the locale, search ignores accents and matches codes', () => 
   assert.deepEqual(searchCountries('', { only: ['SN', 'CI'], locale: 'fr' }).map((c) => c.cca2), ['CI', 'SN']);
   assert.equal(countriesByName('fr')[0].cca2, 'AF');
 });
+
+test('the elements entry imports on a server without throwing or registering', async () => {
+  const entry = await import('../dist/elements/index.js');
+  assert.equal(typeof entry.BcPhoneInput, 'function');
+  assert.equal(typeof entry.BcCountrySelect, 'function');
+});
