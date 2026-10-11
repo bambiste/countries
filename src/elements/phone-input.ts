@@ -11,6 +11,7 @@ import { countryName } from '../names.js';
 import { isPlausiblePhone, parsePhone } from '../phone.js';
 import { codesOf, labelsFor, localeRegion, pageLocale, type CountryLabels } from './labels.js';
 import { CountryPicker, el } from './picker.js';
+import { reflect } from './reflect.js';
 import { installStyles } from './styles.js';
 
 export interface PhoneChange {
@@ -56,9 +57,21 @@ export class BcPhoneInput extends HTMLElement {
     this.setAttribute('country', code);
   }
 
+  /** The language of names and words; the page's unless set. */
   get locale(): string {
     return this.getAttribute('locale') || pageLocale(this);
   }
+  set locale(locale: string) {
+    if (locale) this.setAttribute('locale', locale);
+    else this.removeAttribute('locale');
+  }
+
+  declare name: string;
+  declare only: string;
+  declare preferred: string;
+  declare placeholder: string;
+  declare required: boolean;
+  declare disabled: boolean;
 
   connectedCallback(): void {
     installStyles();
@@ -224,3 +237,5 @@ export class BcPhoneInput extends HTMLElement {
     input.setAttribute('aria-invalid', String(showError));
   }
 }
+
+reflect(BcPhoneInput, { name: 'name', only: 'only', preferred: 'preferred', placeholder: 'placeholder' }, { required: 'required', disabled: 'disabled' });

@@ -7,6 +7,7 @@
 import { getCountry, type Country } from '../data.js';
 import { codesOf, labelsFor, pageLocale, type CountryLabels } from './labels.js';
 import { CountryPicker, countryParts, el } from './picker.js';
+import { reflect } from './reflect.js';
 import { installStyles } from './styles.js';
 
 export interface CountryChange {
@@ -32,9 +33,22 @@ export class BcCountrySelect extends HTMLElement {
     else this.removeAttribute('value');
   }
 
+  /** The language of names and words; the page's unless set. */
   get locale(): string {
     return this.getAttribute('locale') || pageLocale(this);
   }
+  set locale(locale: string) {
+    if (locale) this.setAttribute('locale', locale);
+    else this.removeAttribute('locale');
+  }
+
+  declare name: string;
+  declare only: string;
+  declare preferred: string;
+  declare placeholder: string;
+  declare required: boolean;
+  declare disabled: boolean;
+  declare showCallingCode: boolean;
 
   connectedCallback(): void {
     installStyles();
@@ -125,3 +139,5 @@ export class BcCountrySelect extends HTMLElement {
     else this.internals.setValidity({});
   }
 }
+
+reflect(BcCountrySelect, { name: 'name', only: 'only', preferred: 'preferred', placeholder: 'placeholder' }, { required: 'required', disabled: 'disabled', showCallingCode: 'show-calling-code' });

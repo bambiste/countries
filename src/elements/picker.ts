@@ -78,7 +78,12 @@ export class CountryPicker {
       spellcheck: 'false',
     });
     search.value = query;
-    search.addEventListener('input', () => this.fill());
+    // The search box's own events stay inside: the element's `input` and `change` carry its value.
+    search.addEventListener('input', (event) => {
+      event.stopPropagation();
+      this.fill();
+    });
+    search.addEventListener('change', (event) => event.stopPropagation());
     search.addEventListener('keydown', (event) => this.key(event));
     popup.append(search);
     this.popup = popup;
