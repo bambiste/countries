@@ -190,7 +190,11 @@ export class CountryPicker {
     }
   }
 
-  /** Under the anchor, as wide as it, inside the window; above it when there is more room there. */
+  /**
+   * Under the anchor, as wide as it, inside the window; above it when there is more room there.
+   * Above, its bottom edge is pinned to the anchor, so a list that shrinks while searching stays
+   * against it.
+   */
   private place(): void {
     const popup = this.popup;
     if (!popup) return;
@@ -201,9 +205,16 @@ export class CountryPicker {
     const height = popup.offsetHeight;
     const below = window.innerHeight - rect.bottom - gap - margin;
     const above = rect.top - gap - margin;
-    const top = height > below && above > below ? Math.max(margin, rect.top - gap - height) : rect.bottom + gap;
+    if (height > below && above > below) {
+      popup.style.top = 'auto';
+      popup.style.bottom = `${window.innerHeight - rect.top + gap}px`;
+      popup.style.maxHeight = `${Math.min(320, above)}px`;
+    } else {
+      popup.style.bottom = 'auto';
+      popup.style.top = `${rect.bottom + gap}px`;
+      popup.style.maxHeight = `${Math.min(320, Math.max(below, 120))}px`;
+    }
     const left = Math.min(Math.max(margin, rect.left), window.innerWidth - popup.offsetWidth - margin);
-    popup.style.top = `${top}px`;
     popup.style.left = `${Math.max(margin, left)}px`;
   }
 }
