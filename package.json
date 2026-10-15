@@ -1,7 +1,7 @@
 {
   "name": "@bambiste/countries",
   "version": "0.2.2",
-  "description": "ISO 3166 country list (codes, names, region, flag emoji) as static data: no API, no key.",
+  "description": "Countries as static data, with what a form needs around them: calling codes, names in any language, search, phone numbers, and two form fields, a country select and a phone input.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.js",
@@ -39,7 +39,11 @@
     "country-list",
     "flags",
     "cca2",
-    "cca3"
+    "cca3",
+    "web-components",
+    "custom-elements",
+    "country-select",
+    "phone-input"
   ],
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
