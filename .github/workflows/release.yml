@@ -43,12 +43,12 @@ jobs:
         env:
           # Built-in token pushes tags / opens the version PR on this repo.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # npm publish auth — NPM_TOKEN needs publish rights to the @bambiste org.
+          # npm publish auth: NPM_TOKEN needs publish rights to the @bambiste org.
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       # Self-healing dist-tag guard: keep the intended tag on the version currently
-      # in the workspace — `latest` on master, or the pre tag (next/alpha) in
-      # changesets prerelease mode — so `@<tag>` always resolves the newest build.
+      # in the workspace, `latest` on master, or the pre tag (next/alpha) in
+      # changesets prerelease mode, so `@<tag>` always resolves the newest build.
       - name: Reconcile dist-tag
         if: ${{ !cancelled() }}
         env:

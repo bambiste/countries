@@ -27,7 +27,7 @@ export interface Country {
   areaCodes: string[];
 }
 
-/** All countries, sorted by common name. Static data — no network, no key. */
+/** All countries, sorted by common name. Static data: no network, no key. */
 export const countries: readonly Country[] = data as Country[];
 
 const byCca2 = new Map(countries.map((c) => [c.cca2, c]));

@@ -1,6 +1,6 @@
 // Generate src/countries.json from the `world-countries` dataset (mledoze/countries, ODbL).
 // Run once (or whenever you bump world-countries): `npm run generate`. The output is committed
-// and shipped — consumers get the data with zero runtime deps, zero network, zero secret.
+// and shipped: consumers get the data with zero runtime deps, zero network, zero secret.
 import { readFileSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, resolve } from 'node:path';
